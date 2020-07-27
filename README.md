@@ -1,9 +1,9 @@
 # Local Setup
-- git clone git@github.com:HunderlineK/kafka-dashboard.git
-- cd kafka-dashboard
+- `git clone git@github.com:HunderlineK/kafka-dashboard.git`
+- `cd kafka-dashboard`
 - Create and populate 'clusters.js'
-- 'npm run dev:server'
-- 'npm run dev'
+- `npm run dev:server`
+- `npm run dev`
 
 # Credits
 - https://github.com/tulios/kafkajs
