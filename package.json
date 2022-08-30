@@ -23,6 +23,6 @@
     "express": "^4.17.1",
     "express-http-context": "^1.2.4",
     "kafkajs": "^1.13.0-beta.58",
-    "vite": "^1.0.0-rc.1"
+    "vite": "^2.9.13"
   }
 }
